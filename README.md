@@ -6,8 +6,6 @@
 ## Looking into these
 [Chroma](https://github.com/dattgoswami/chroma)
 
-[Magic Text](https://github.com/dattgoswami/magic-text)
-
 [OpenAI Function Call](https://github.com/dattgoswami/openai_function_call)
 
 [GPT Engineer](https://github.com/dattgoswami/gpt-engineer)
