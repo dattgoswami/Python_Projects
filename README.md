@@ -9,3 +9,8 @@
 [OpenAI Function Call](https://github.com/dattgoswami/openai_function_call)
 
 [GPT Engineer](https://github.com/dattgoswami/gpt-engineer)
+
+## Previous Projects
+[CryptoMetrics](https://github.com/dattgoswami/CryptoMetrics)
+
+[BitChainAnalyzer](https://github.com/dattgoswami/BitChainAnalyzer)
