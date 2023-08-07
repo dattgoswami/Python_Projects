@@ -1,4 +1,6 @@
 # Python Projects 
+[SmartOutfit - Weather Clothing Recommendation with Llama Model](https://github.com/dattgoswami/smartoutfit-weather-clothing-recommendation)
+
 [Spreadsheet Backend Python](https://github.com/dattgoswami/spreadsheet-backend-library-python) 
 
 [Github Repository Fetcher and Analyzer](https://github.com/dattgoswami/github_repo_fetcher) 
