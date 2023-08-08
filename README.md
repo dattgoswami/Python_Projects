@@ -1,7 +1,7 @@
 # Python Projects 
 [News Summary Generator with Llama](https://github.com/dattgoswami/news-summary-generator)
 
-[SmartOutfit - Weather Clothing Recommendation with Llama Model](https://github.com/dattgoswami/smartoutfit-weather-clothing-recommendation)
+[SmartOutfit - Weather Clothing Recommendation with Llama](https://github.com/dattgoswami/smartoutfit-weather-clothing-recommendation)
 
 [Spreadsheet Backend Python](https://github.com/dattgoswami/spreadsheet-backend-library-python) 
 
