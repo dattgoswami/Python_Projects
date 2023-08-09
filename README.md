@@ -3,7 +3,7 @@
 
 [SmartOutfit - Weather based Clothing Recommendation with Llama-7b](https://github.com/dattgoswami/smartoutfit-weather-clothing-recommendation)
 
-[Product API FastAPI](https://github.com/dattgoswami/products-api-fastapi)
+[Product API - FastAPI](https://github.com/dattgoswami/products-api-fastapi)
 
 [Spreadsheet Backend Python](https://github.com/dattgoswami/spreadsheet-backend-library-python) 
 
