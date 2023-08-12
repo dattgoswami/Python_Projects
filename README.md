@@ -7,6 +7,8 @@
 
 [Product API - Flask](https://github.com/dattgoswami/products-api-flask)
 
+[Product API without using any framework](https://github.com/dattgoswami/product-api-wo-framework)
+
 [Spreadsheet Backend Python](https://github.com/dattgoswami/spreadsheet-backend-library-python) 
 
 [Github Repository Fetcher and Analyzer](https://github.com/dattgoswami/github_repo_fetcher) 
