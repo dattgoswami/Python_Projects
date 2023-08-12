@@ -5,6 +5,8 @@
 
 [Product API - FastAPI](https://github.com/dattgoswami/products-api-fastapi)
 
+[Product API - Flask](https://github.com/dattgoswami/products-api-flask)
+
 [Spreadsheet Backend Python](https://github.com/dattgoswami/spreadsheet-backend-library-python) 
 
 [Github Repository Fetcher and Analyzer](https://github.com/dattgoswami/github_repo_fetcher) 
