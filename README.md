@@ -3,7 +3,7 @@
 
 [SmartOutfit - Weather-based Clothing Recommendation with Llama2-7b](https://github.com/dattgoswami/smartoutfit-weather-clothing-recommendation)
 
-[MNIST Classifiers](https://github.com/dattgoswami/MNIST-Classifiers)
+[MNIST Classifiers - PyTorch, TensorFlow, JAX](https://github.com/dattgoswami/MNIST-Classifiers)
 
 [Product API - Django](https://github.com/dattgoswami/products-api-django)
 
