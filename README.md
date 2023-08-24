@@ -7,6 +7,8 @@
 
 [MNIST Classifiers - PyTorch, TensorFlow, JAX](https://github.com/dattgoswami/MNIST-Classifiers)
 
+[Pong Arena](https://github.com/dattgoswami/PongArena)
+
 [Product API - Django](https://github.com/dattgoswami/products-api-django)
 
 [Product API - FastAPI](https://github.com/dattgoswami/products-api-fastapi)
