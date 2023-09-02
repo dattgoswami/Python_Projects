@@ -9,13 +9,7 @@
 
 [Pong Arena](https://github.com/dattgoswami/PongArena)
 
-[Product API - Django](https://github.com/dattgoswami/products-api-django)
-
-[Product API - FastAPI](https://github.com/dattgoswami/products-api-fastapi)
-
-[Product API - Flask](https://github.com/dattgoswami/products-api-flask)
-
-[Product API without using any framework](https://github.com/dattgoswami/product-api-wo-framework)
+[Product API - Django, FastAPI, Flask, without any framework versions](https://github.com/dattgoswami/products-api)
 
 [Spreadsheet Backend Python](https://github.com/dattgoswami/spreadsheet-backend-library-python) 
 
