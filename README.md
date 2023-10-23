@@ -3,6 +3,10 @@
 
 [SmartOutfit - Weather-based Clothing Recommendation with Llama2-7b](https://github.com/dattgoswami/smartoutfit-weather-clothing-recommendation)
 
+[Data Dashboard Backend - Flask](https://github.com/dattgoswami/postal-code-dashboard)
+
+[Banking API - Fast API](https://github.com/dattgoswami/banking-api)
+
 [Pong DeepRL](https://github.com/dattgoswami/Pong-DeepRL)
 
 [MNIST Classifiers - PyTorch, TensorFlow, JAX](https://github.com/dattgoswami/MNIST-Classifiers)
