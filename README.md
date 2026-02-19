@@ -1,4 +1,7 @@
 # Python Projects 
+
+[OpenStack VM API built using FastAPI and sqlite as db](https://github.com/dattgoswami/nova-api-openstack)
+
 [Article Summary Generator with Llama2-7b](https://github.com/dattgoswami/article-summary-generator)
 
 [SmartOutfit - Weather-based Clothing Recommendation with Llama2-7b](https://github.com/dattgoswami/smartoutfit-weather-clothing-recommendation)
