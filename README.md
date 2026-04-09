@@ -1,4 +1,6 @@
 # Python Projects 
+[PersonalKB](https://github.com/dattgoswami/PersonalKB)
+  Offline-first Python CLI Knowledge Base for querying your personal library of technical books and papers using hybrid RAG (Ollama + BM42 sparse + Qdrant RRF) — grounded answers with citations, zero API cost, nothing leaves your machine.
 
 [OpenStack VM API built using FastAPI and sqlite as db](https://github.com/dattgoswami/nova-api-openstack)
 
