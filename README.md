@@ -1,4 +1,6 @@
 # Python Projects 
+[forge-core](https://github.com/dattgoswami/forge-core) 
+  Framework-agnostic domain layer for agentic SWE systems — shared tools, schemas, guardrails, Docker sandbox, and eval harness portable across LangGraph, OpenAI Agents SDK, CrewAI, Google ADK, and AWS Strands.
 [PersonalKB](https://github.com/dattgoswami/PersonalKB)
   Offline-first Python CLI Knowledge Base for querying your personal library of technical books and papers using hybrid RAG (Ollama + BM42 sparse + Qdrant RRF) — grounded answers with citations, zero API cost, nothing leaves your machine.
 
