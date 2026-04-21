@@ -1,4 +1,7 @@
 # Python Projects 
+[cl-agent](https://github.com/dattgoswami/cl-agent) 
+A continual-learning substrate for coding agents that captures episodes, replays relevant experience, and distills reusable skills across sessions without fine-tuning.
+
 [forge-core](https://github.com/dattgoswami/forge-core) 
   Framework-agnostic domain layer for agentic SWE systems — shared tools, schemas, guardrails, Docker sandbox, and eval harness portable across LangGraph, OpenAI Agents SDK, CrewAI, Google ADK, and AWS Strands.
   
