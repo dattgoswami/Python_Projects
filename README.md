@@ -1,4 +1,10 @@
 # Python Projects 
+[forge-agent](https://github.com/dattgoswami/forge-agent)
+Continual-learning coding agent for the Ferrum Platform that executes tasks, learns from outcomes, and improves over time.
+
+[taste-memory](https://github.com/dattgoswami/taste-memory)
+Human preference, prompt asset, and episodic memory service for personalized Agentic(LLM) systems.
+
 [ferrum-memory](https://github.com/dattgoswami/ferrum-memory)
 A FastAPI-based memory layer for Ferrum agents that manages working memory, hybrid retrieval, and prioritized experience replay.
 
