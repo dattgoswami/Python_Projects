@@ -1,4 +1,7 @@
 # Python Projects 
+[ferrum-agent](https://github.com/dattgoswami/ferrum-agent)
+Multi-agent orchestration runtime for the Ferrum platform — planning, execution, review, memory, and human approval in one control plane.
+
 [forge-agent](https://github.com/dattgoswami/forge-agent)
 Continual-learning coding agent for the Ferrum Platform that executes tasks, learns from outcomes, and improves over time.
 
