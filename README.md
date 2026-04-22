@@ -1,4 +1,10 @@
 # Python Projects 
+[ferrum-memory](https://github.com/dattgoswami/ferrum-memory)
+A FastAPI-based memory layer for Ferrum agents that manages working memory, hybrid retrieval, and prioritized experience replay.
+
+[ferrum-evals](https://github.com/dattgoswami/ferrum-evals)
+An evaluation harness for Ferrum agents that scores CI runs for correctness, safety, and trajectory quality while tracking continual learning metrics.
+
 [cl-agent](https://github.com/dattgoswami/cl-agent) 
 A continual-learning substrate for coding agents that captures episodes, replays relevant experience, and distills reusable skills across sessions without fine-tuning.
 
